@@ -4,8 +4,6 @@
 
 J.A.R.V.I.S (Just A Rather Very Intelligent System) is a full-stack AI assistant inspired by the AI from Iron Man. It features voice interaction, chat capabilities, computer vision, and system monitoring, all wrapped in a sleek, modern interface.
 
-![J.A.R.V.I.S Dashboard](https://i.imgur.com/example-screenshot.png)
-
 ## ✨ Features
 
 - **🎙️ Voice Interface**: Speech recognition and text-to-speech capabilities
